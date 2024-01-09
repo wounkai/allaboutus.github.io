@@ -21,3 +21,4 @@ there will be 2 Option buttons will shows up upon selecting a user.
 How to Run the Project
 - Download or clone the project repository from Github.
 - Open the index.html file in a web browser to access the home page.
+- https://wounkai.github.io/allaboutus (copy and paste the url).
