@@ -1,4 +1,4 @@
-const API_URL = 'https://jsonplaceholder.typicode.com';
+const API_URL = 'https://jsonplaceholder.typicode.com/users';
 
 let currentPage = 1;
 const postsPerPage= 4;
