@@ -1,0 +1,85 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+main {
+  display: flex;
+  max-width: 1500px;
+  margin: 20px auto;
+}
+
+section {
+  margin-right: 20px;
+  background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#right-panel {
+  flex: 1;
+  text-align: center;
+}
+
+#user-details-message {
+  color: #888;
+  text-align: center;
+  margin-top: 200px;
+}
+
+#user-details {
+  margin-top: 10px;
+  text-align: left;
+}
+
+#user-options {
+  margin-top: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#users-list li{
+  border: 1px solid #ccc;
+}
+
+#users-list :hover {
+  background-color: #ccc;
+}
+
+.info {
+  text-align: center;
+  padding: 10px 10px;
+  color: #888;
+}
